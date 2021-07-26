@@ -1,0 +1,10 @@
+node_modules
+build
+.DS_Store
+.idea
+contracts/**/*.json
+out
+artifacts
+cache
+local
+target
